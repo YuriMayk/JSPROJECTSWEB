@@ -10,3 +10,4 @@ btn.addEventListener('click', function () {
     color.textContent = colors[randomNumber]
     alert(randomNumber)
 })
+
