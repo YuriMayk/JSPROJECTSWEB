@@ -27,13 +27,22 @@ h4{
     text-decoration: none;
     list-style: none;
     border: 21px;
-    
+    background-color: rgb(184, 174, 161) ;
+}
+
+.btn-menu {
+    border-radius: 15px;
+    font-size: medium;
+    font-weight: 700;
+    font-style: italic;
+    border-color: bisque;
+    padding: 5px;
+    background-color: antiquewhite;
 }
 
 ul{
     background-color: white;
-    border-radius: 10px;
-    
+    border-radius: 10px;    
 }
 
 .container {
