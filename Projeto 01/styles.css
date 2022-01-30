@@ -63,6 +63,8 @@ h2 {
     margin-bottom: 15px;
     font-size: medium;
     font-weight: 500;
+    border-radius: 15px;
+    padding: 6px;
 }
 
 li {
