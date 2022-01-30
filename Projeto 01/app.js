@@ -8,6 +8,7 @@ btn.addEventListener('click', function () {
     const randomNumber = Math.floor(Math.random() * colors.length)
     document.body.style.backgroundColor = colors[randomNumber]
     color.textContent = colors[randomNumber]
+    document.div.container.h2.style.backgroundColor = colors[randomNumber]
     alert(randomNumber)
 })
 
